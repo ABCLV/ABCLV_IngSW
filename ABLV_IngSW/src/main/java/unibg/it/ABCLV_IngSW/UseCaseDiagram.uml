@@ -3,4 +3,5 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="__GfkELlzEfCHyP9bl_LUqQ">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_b1rc0LmqEfCFSvgadSq75w" name="Arbitro"/>
 </uml:Model>

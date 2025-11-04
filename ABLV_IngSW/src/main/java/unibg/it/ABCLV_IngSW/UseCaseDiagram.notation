@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"/>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_a8S9wLmqEfCFSvgadSq75w" type="UseCase" name="UseCaseDiagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_b1104LmqEfCFSvgadSq75w" type="Actor_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_b18ikLmqEfCFSvgadSq75w" type="Actor_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_b18ikbmqEfCFSvgadSq75w" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_b18ikrmqEfCFSvgadSq75w" type="Actor_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_b18ik7mqEfCFSvgadSq75w" x="20" y="100"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_b18ilLmqEfCFSvgadSq75w" type="Actor_QualifiedNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_b18ilbmqEfCFSvgadSq75w" x="20" y="80"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_b18ilrmqEfCFSvgadSq75w" type="Actor_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_b18il7mqEfCFSvgadSq75w" y="15"/>
+    </children>
+    <element xmi:type="uml:Actor" href="UseCaseDiagram.uml#_b1rc0LmqEfCFSvgadSq75w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b1104bmqEfCFSvgadSq75w" x="323" y="202"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_a8S9wbmqEfCFSvgadSq75w" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_a8S9wrmqEfCFSvgadSq75w"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_a8S9w7mqEfCFSvgadSq75w" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="UseCaseDiagram.uml#__Bd6ILlzEfCHyP9bl_LUqQ"/>
+  </styles>
+  <element xmi:type="uml:Model" href="UseCaseDiagram.uml#__Bd6ILlzEfCHyP9bl_LUqQ"/>
+</notation:Diagram>
